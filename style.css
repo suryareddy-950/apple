@@ -1,0 +1,25 @@
+img{
+    margin-top: 5px;
+    margin-left:100px
+}
+a{
+    margin:25px; 
+}
+div{
+    background-color: rgb(116, 114, 114);
+}
+a{
+    color: white;
+}
+p{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+header{
+    padding-left:150px ;
+    background-color: black;
+    color: white;
+}
+h1{
+    padding-left: 50px;
+}
